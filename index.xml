@@ -21,7 +21,7 @@
   <itunes:subtitle>Short sentence about the podcast</itunes:subtitle>
   <itunes:owner>
     <itunes:name>Jesse Levine</itunes:name>
-    <!-- <itunes:email>email@test.com</itunes:email> -->
+    <itunes:email>email@test.com</itunes:email>
   </itunes:owner>
   <itunes:explicit>No</itunes:explicit>
   <itunes:keywords>
